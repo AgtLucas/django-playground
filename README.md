@@ -1,4 +1,3 @@
-django-playground
-=================
+Django Playground
 
 Playing with Django
