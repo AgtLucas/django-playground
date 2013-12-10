@@ -1,3 +1,3 @@
-Django Playground
+###Django Playground
 
 Playing with Django
